@@ -25,7 +25,6 @@ Here are some technologies I’m currently learning:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](Your LinkedIn URL)
 - [Twitter](https://x.com/raflibaebae111)
 - [Personal Website](https://sites.google.com/view/autem-saepe/beranda)
 
