@@ -5,18 +5,18 @@ Welcome to my GitHub profile! I'm just getting started on my journey in the worl
 ## 🚀 About Me
 
 - 🔭 I’m currently exploring the basics of programming.
-- 🌱 I’m learning [mention any specific languages or technologies, e.g., HTML, CSS, JavaScript].
-- 👯 I’m looking to collaborate on beginner-friendly projects.
-- 🤔 I’m looking for help with understanding [specific topics you're struggling with].
-- 💬 Ask me about my learning journey and any resources you recommend!
-- 📫 How to reach me: [Your Email or Social Media Links].
-- ⚡ Fun fact: I love [a personal interest or hobby, e.g., gaming, art, etc.].
+- 🌱 I’m learning **HTML**, **CSS**, and **JavaScript** to build my foundational skills in web development.
+- 👯 I’m looking to collaborate on beginner-friendly projects, especially those that allow me to learn while contributing.
+- 🤔 I’m looking for help with understanding **JavaScript basics** and **responsive design principles**.
+- 💬 Ask me about my learning journey and any resources you recommend! I’m always eager to learn from others.
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com) or connect with me on [Twitter](https://x.com/raflibaebae111).
+- ⚡ Fun fact: I love **playing video games** and exploring new gaming technologies!
 
 ## 🛠️ Technologies & Tools
 
 Here are some technologies I’m currently learning:
 
-- **Languages**: HTML, CSS, JavaScript (or other languages you’re interested in)
+- **Languages**: HTML, CSS, JavaScript
 - **Tools**: Git, VS Code
 
 ## 📈 GitHub Stats
